@@ -1,0 +1,11 @@
+
+p, h2 {
+	font-family: 'Inria Sans', sans-serif;
+	display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.cbox span{
+    margin-right: 30px;
+}
